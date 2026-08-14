@@ -52,22 +52,7 @@ I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys transformin
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Shanu567813&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
