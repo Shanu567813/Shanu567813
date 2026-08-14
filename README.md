@@ -1,130 +1,205 @@
-# <h1 align="center">Hi 👋, I'm <b>Shanyal Kumar</b></h1>
+# 👋 Hi, I'm **Shanyal Kumar**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Software+Engineer;C+%7C+C%2B%2B+Developer;Frontend+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=Software+Engineer;C+%7C+C%2B%2B+Developer;Frontend+Developer;Problem+Solver;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  <a href="mailto:kumar193shanyal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kumar193shanyal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding">
 
-🎓 I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys turning ideas into real-world applications.
+I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys transforming ideas into real-world applications.
 
 * 💻 Passionate about Software Development
-* 🌱 Currently learning modern Web Development
+* 🌱 Learning modern Web Development
 * 🚀 Love solving programming problems
-* 🤝 Interested in Open Source Contributions
+* 🤝 Interested in Open Source
 * ⚡ Always exploring new technologies
-* 🎯 Goal: Build impactful software and grow as a Full Stack Developer
+* 🎯 Working towards becoming a Full Stack Developer
+
+<br clear="right"/>
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages & Web Technologies
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
-
-# 🛠 Tools & IDE
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
-## 🐦 Flappy Bird Contribution Game
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samueloliveira/commit.bird/main/docs/demo.gif" width="700" alt="Commit Bird Game">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐦 Flappy Bird — Play With My Contributions!
+
+<p align="center">
+  <a href="https://gitflap.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮%20PLAY%20FLAPPY%20BIRD-00C4FF?style=for-the-badge&logo=gameandwatch&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <b>🎮 Watch my GitHub contributions come alive with Flappy Bird!</b>
+  <b>My GitHub contributions become the Flappy Bird level!</b><br>
+  Fly through my contribution history and see how far you can go 🚀
 </p>
-
-> 💡 **Note:** This game is **not automatic**. It requires a GitHub Action to generate the animation from your contribution graph.
-
----
-
-
-
-# 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://gitflap.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="850" alt="GitHub Contribution Game"/>
+  </a>
 </p>
-
----
-
-# 📊 Activity Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
+  🎮 <b>Click the button above to play.</b>
 </p>
 
 ---
 
-# 🌟 Featured Projects
+## 🟩 Contribution Activity
 
-### 🚀 Coming Soon...
-
-I'm currently building exciting projects that will be showcased here.
-
-⭐ Stay tuned!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+</p>
 
 ---
 
-# 🎯 Fun Facts
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Project 01
+
+**Your awesome project**
+
+Add a short description of your project here.
+
+**Tech:** C++ / JavaScript / HTML / CSS
+
+</td>
+
+<td width="50%">
+
+### 💡 Project 02
+
+**Your awesome project**
+
+Add a short description of your project here.
+
+**Tech:** JavaScript / HTML / CSS
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ Project 03
+
+**Your awesome project**
+
+Add a short description of your project here.
+
+**Tech:** C / C++
+
+</td>
+
+<td width="50%">
+
+### 🌐 Project 04
+
+**Your awesome project**
+
+Add a short description of your project here.
+
+**Tech:** Web Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Fun Facts
 
 * ☕ Coffee + Coding = Productivity
-* 🎧 I enjoy coding while listening to music.
-* 💡 I believe consistency beats motivation.
-* 🚀 Every day is an opportunity to learn something new.
+* 🎧 Music makes coding more fun
+* 💡 I believe consistency beats motivation
+* 🚀 Always building and learning
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:kumar193shanyal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Favorite Quote
+## 💬 Developer Quote
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
 
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my GitHub Profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 </p>
 
-> **⚠️ Before using this README, replace every `YOUR_GITHUB_USERNAME` with your actual GitHub username to enable the dynamic stats and graphs.**
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
