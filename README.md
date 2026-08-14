@@ -58,37 +58,7 @@
 
 ---
 
-### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-### ⚙️ Replace
-
-Replace:
-
-```text
-YOUR_GITHUB_USERNAME
-```
-
-with your actual GitHub username.
-
-Then enable the **Commit Bird GitHub Action** in your repository to display the Flappy Bird animation.
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
