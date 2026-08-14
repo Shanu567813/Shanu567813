@@ -57,7 +57,7 @@ I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys transformin
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Shanu567813&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img
@@ -117,7 +117,7 @@ I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys transformin
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shanu567813&theme=tokyo-night&area=true"
     width="95%"
     alt="GitHub Contribution Activity"
   />
@@ -132,7 +132,7 @@ I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys transformin
 
 ### 🚀 Project 01
 
-**Your Project Name**
+**Portfolio**
 
 Add a short description of your project here.
 
@@ -147,7 +147,7 @@ Add a short description of your project here.
 
 ### 💡 Project 02
 
-**Your Project Name**
+**Fake Review AI**
 
 Add a short description of your project here.
 
@@ -166,7 +166,7 @@ Add a short description of your project here.
 
 ### ⚡ Project 03
 
-**Your Project Name**
+**Instagram**
 
 Add a short description of your project here.
 
@@ -178,24 +178,6 @@ Add a short description of your project here.
 </td>
 <td width="50%" valign="top">
 ```
-
-### 🌐 Project 04
-
-**Your Project Name**
-
-Add a short description of your project here.
-
-**Tech:** Web Development
-
-[🔗 View Project](YOUR_PROJECT_4_URL)
-
-```
-</td>
-```
-
-  </tr>
-</table>
-
 ---
 
 ## 🎯 Fun Facts
