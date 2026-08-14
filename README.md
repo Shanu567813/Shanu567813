@@ -1,56 +1,91 @@
-```md
-<h1 align="center">Hi 👋, I'm Shanyal Kumar</h1>
+# <h1 align="center">Hi 👋, I'm <b>Shanyal Kumar</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;C+%7C+C%2B%2B+Developer;Frontend+Developer;Always+Learning+New+Things;Welcome+to+My+GitHub+Profile!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Software+Engineer;C+%7C+C%2B%2B+Developer;Frontend+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=yellow"/>
-</p>
+
 
 ---
 
 # 💫 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-💻 **Software Engineer**
+🎓 I'm **Shanyal Kumar**, a passionate **Software Engineer** who enjoys turning ideas into real-world applications.
 
-Hello! I'm **Shanyal Kumar**, a passionate software engineer who enjoys building modern web applications and solving programming problems.
-
-- 🌱 Currently learning new technologies every day
-- 💻 Passionate about Software Development
-- 🚀 Love Open Source
-- 🎯 Goal: Become a Full Stack Developer
-- ⚡ Fun Fact: I enjoy turning ideas into real projects.
+* 💻 Passionate about Software Development
+* 🌱 Currently learning modern Web Development
+* 🚀 Love solving programming problems
+* 🤝 Interested in Open Source Contributions
+* ⚡ Always exploring new technologies
+* 🎯 Goal: Build impactful software and grow as a Full Stack Developer
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🛠 Tools & IDE
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+---
+## 🐦 Flappy Bird Contribution Game
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/samueloliveira/commit.bird/main/docs/demo.gif" width="700" alt="Commit Bird Game">
+</p>
+
+<p align="center">
+  <b>🎮 Watch my GitHub contributions come alive with Flappy Bird!</b>
+</p>
+
+> 💡 **Note:** This game is **not automatic**. It requires a GitHub Action to generate the animation from your contribution graph.
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### ⚙️ Replace
+
+Replace:
+
+```text
+YOUR_GITHUB_USERNAME
+```
+
+with your actual GitHub username.
+
+Then enable the **Commit Bird GitHub Action** in your repository to display the Flappy Bird animation.
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -58,53 +93,43 @@ Hello! I'm **Shanyal Kumar**, a passionate software engineer who enjoys building
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
 </p>
-
----
-
-# 🐦 Flappy Bird Contribution Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/samueloliveira/commit.bird/main/docs/demo.gif" width="800"/>
-</p>
-
-<p align="center">
-<b>🎮 Play Flappy Bird using my GitHub Contributions!</b>
-</p>
-
-> **Note:** This animation works after enabling the **Commit Bird GitHub Action** in your profile repository.
 
 ---
 
 # 🌟 Featured Projects
 
-### 🚀 Projects Coming Soon...
+### 🚀 Coming Soon...
 
-- 💻 Web Development Projects
-- ⚡ C & C++ Programming Projects
-- 🌐 JavaScript Applications
+I'm currently building exciting projects that will be showcased here.
+
+⭐ Stay tuned!
 
 ---
 
 # 🎯 Fun Facts
 
-- 💻 I love coding.
-- 🎵 Music keeps me productive.
-- ☕ Coffee + Code = ❤️
-- 🚀 Always curious to learn something new.
+* ☕ Coffee + Coding = Productivity
+* 🎧 I enjoy coding while listening to music.
+* 💡 I believe consistency beats motivation.
+* 🚀 Every day is an opportunity to learn something new.
 
 ---
 
-# 📫 Contact Me
+# 📫 Connect With Me
 
 <p align="left">
 
@@ -114,38 +139,22 @@ Hello! I'm **Shanyal Kumar**, a passionate software engineer who enjoys building
 
 </p>
 
-📧 **Email:** **kumar193shanyal@gmail.com**
-
 ---
 
-# 💬 Quote
+# 💬 Favorite Quote
 
-> **"First, solve the problem. Then, write the code."**
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
 <p align="center">
 
-### ⭐ Thanks for Visiting!
+### ⭐ Thanks for visiting my GitHub Profile!
 
-If you like my projects, don't forget to ⭐ my repositories.
+If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </p>
 
-```
-
-### 🔧 Replace Before Using
-
-Replace every occurrence of:
-
-```text
-YOUR_GITHUB_USERNAME
-```
-
-with your actual GitHub username.
-
-### 🐦 About the Flappy Bird Section
-
-The GIF shown above is only a demo. If you want the **real Flappy Bird game generated from your own contribution graph**, you'll need to set up the corresponding GitHub Action in your profile repository. Once configured, it will update automatically based on your contributions.
+> **⚠️ Before using this README, replace every `YOUR_GITHUB_USERNAME` with your actual GitHub username to enable the dynamic stats and graphs.**
